@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+  font-family: 'Devant-Medium';
+  src: local('Devant-Medium'),
+  url('./fonts/Devant-Medium.woff') format('woff'),
+}
